@@ -3,5 +3,5 @@ demo da 3edição do workshop boas praticas
 
 
 # Oradores
-Pedro Principe
-Bruno Direito
+Pedro Principe, pedro@minho
+Bruno Direito, bruno@coimbra
